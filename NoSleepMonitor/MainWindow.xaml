@@ -1,0 +1,9 @@
+﻿<Window x:Class="NoSleepMonitor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="NO Sleep Monitor" Height="77" Width="184" ResizeMode="NoResize" >
+    <Grid>
+        <Button Name="toogleSleepBtn" Content="Start" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="149" Click="toggleSleep"/>
+
+    </Grid>
+</Window>
