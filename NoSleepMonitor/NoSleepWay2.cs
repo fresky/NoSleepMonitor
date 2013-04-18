@@ -1,6 +1,4 @@
-﻿using System;
-using System.Runtime.InteropServices;
-using System.Windows.Threading;
+﻿using System.Runtime.InteropServices;
 
 
 namespace NoSleepMonitor
